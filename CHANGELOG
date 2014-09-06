@@ -1,2 +1,7 @@
 v1.0.0-release - July 8th, 2014
 - Initial Release
+
+
+v1.0.1-release - September 5th, 2014
+- Fixed: Changing pages would stop plugin from working on pages after the inital page load.
+- Info: Minor code refactoring.
